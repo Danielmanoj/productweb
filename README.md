@@ -585,14 +585,14 @@ contact.html
 ```
 
 ## Output:
-![Output](./out21.png)
-![Output](./out22.png)
-![Output](./out23.png)
-![Output](./out24.png)
+![Output](./out11.png)
+![Output](./out12.png)
+![Output](./out13.png)
+![Output](./out14.png)
 
 
 ## HTML Validator
-![Output](./validf.png)
+![Output](./valid1.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
