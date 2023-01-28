@@ -70,14 +70,14 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>VK Fancy Universe</h1>
+                    <h1>MSD Fancy Universe</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
                     <marquee><b>Feel BEAUTY through our Store</b></marquee>
                     <p style="color:rgb(238, 84, 13); font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Fancy Store</p>
                     </div>
-                    <p>Buy Fancy items and Cosmetics online for Women from <span style="background-color:lime">VK Fancy Universe</span>
+                    <p>Buy Fancy items and Cosmetics online for Women from <span style="background-color:lime">MSD Fancy Universe</span>
                          for Rs.100 | Buy cosmetics in ONE SIZE online | 7 Days Returns | Trend setting models | And much more</p>
                     <br>
                 <center>
@@ -92,7 +92,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by AadhithyaVK</footer></div>
+                Copyright &copy;2023 Developed by Gowrisankar</footer></div>
             </div>
         </div>
     </body>
@@ -282,24 +282,24 @@ product.html
                     <p>These are the products that are available now</p>
                     </div>
                     <div class="ph1"></div>
-                    <div class="l1"><p align="center"><b>Lipstick<br> Price: 1999.00</b><br><br><br><br></p></div>
+                    <div class="l1"><p align="center"><b>Lipstick<br> Price: 1899.00</b><br><br><br><br></p></div>
                     <div class="ph2"></div>
-                    <div class="l2"><p align="center"><b>Eyeliner<br> Price: 1899.00</b><br><br><br><br></p></div>
+                    <div class="l2"><p align="center"><b>Eyeliner<br> Price: 1099.00</b><br><br><br><br></p></div>
                     <div class="ph3"></div>
-                    <div class="l3"><p align="center"><b>Compact Powder<br> Price: 1999.00</b><br<br><br><br></p></div>
+                    <div class="l3"><p align="center"><b>Compact Powder<br> Price: 1599.00</b><br<br><br><br></p></div>
                     <div class="ph4"></div>
-                    <div class="l4"><p align="center"><b>Foundation<br> Price: 6999.00</b><br><br><br><br></p></div>
+                    <div class="l4"><p align="center"><b>Foundation<br> Price: 6499.00</b><br><br><br><br></p></div>
                     <div class="ph5"></div>
-                    <div class="l5"><p align="center"><b>Make-up Brush<br> Price: 3999.00</b><br><br><br><br></p></div>
+                    <div class="l5"><p align="center"><b>Make-up Brush<br> Price: 3899.00</b><br><br><br><br></p></div>
                     <div class="ph6"></div>
-                    <div class="l6"><p align="center"><b>Primer<br> Price: 5999.00</b><br><br><br><br></p></div>
+                    <div class="l6"><p align="center"><b>Primer<br> Price: 5499.00</b><br><br><br><br></p></div>
          
                 </div>
-                <div class="bot"><p>To Order Online: Call 9952525252</p></div>
+                <div class="bot"><p>To Order Online: Call 9345065724</p></div>
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by AadhithyaVK</footer></div>
+                Copyright &copy;2023 Developed by Gowrisankar</footer></div>
             </div>
         </div>
     </body>
@@ -343,7 +343,7 @@ people.html
             margin-right:auto;
         }
         .ceoph{
-            background-image: url(/static/images/P1.jpg);
+            background-image: url(/static/images/P2.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -363,7 +363,7 @@ people.html
             
         }
         .manph1{
-            background-image: url(/static/images/P2.jpg);
+            background-image: url(/static/images/P1.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -486,13 +486,13 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Aadhithya</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h2>Gowrisankar</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
                     </div>
                     <div class="manph1"></div>
-                    <div class="man1"><p align="center"><b><h2>Shankar G</h2></b></p></div>
+                    <div class="man1"><p align="center"><b><h2>Aadhithya</h2></b></p></div>
                     <div class="manph2"></div>
                     <div class="man2"><p><b><h2>Ashwinth</h2></b></p></div>
                     <br>
@@ -507,7 +507,7 @@ people.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by AadhithyaVK</footer></div>
+                Copyright &copy;2023 Developed by Gowrisankar</footer></div>
             </div>
         </div>
     </body>
@@ -563,20 +563,20 @@ contact.html
                     </div>
                     <b><h2>Contact Information:</h2></b>
                     <p><b>&emsp;&ensp;Address:</b>
-                        Tambaram, Chennai, TamilNadu, India.
+                        Pallavaram, Chennai, TamilNadu, India.
                     </p>
                     <ul>
-                        <li><b>Landline:</b> 12345678</li>
-                        <li><b>Mobile</b>: 9952525252</li>
-                        <li><b>Facebook</b>: fb/vk</li>
-                        <li><b>Email Id:</b>deeps@vk.com</li>
+                        <li><b>Landline:</b> 98765432</li>
+                        <li><b>Mobile</b>: 9345065724</li>
+                        <li><b>Facebook</b>: fb/Gs</li>
+                        <li><b>Email Id:</b>deeps@Gs.com</li>
                     </ul>
                     <div style="text-align: center;color:violet;font-size:20px;"><b>Use our services and Beautify Yourself!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by AadhithyaVK</footer></div>
+                Copyright &copy;2023 Developed by Gowrisankar</footer></div>
             </div>
         </div>
     </body>
