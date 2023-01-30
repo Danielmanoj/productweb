@@ -92,7 +92,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Gowrisankar</footer></div>
+                Copyright &copy;2023 Developed by Manoj</footer></div>
             </div>
         </div>
     </body>
@@ -486,7 +486,7 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Gowrisankar</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h2>Manoj</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
@@ -507,7 +507,7 @@ people.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Gowrisankar</footer></div>
+                Copyright &copy;2023 Developed by Manoj</footer></div>
             </div>
         </div>
     </body>
@@ -576,7 +576,7 @@ contact.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Gowrisankar</footer></div>
+                Copyright &copy;2023 Developed by Manoj</footer></div>
             </div>
         </div>
     </body>
@@ -585,10 +585,10 @@ contact.html
 ```
 
 ## Output:
-![Output](./out11.png)
+![Output](./Out49.png)
 ![Output](./out12.png)
-![Output](./out13.png)
-![Output](./Screenshot(61).png)
+![Output](./Out50.png)
+![Output](./Out13.png)
 
 
 ## HTML Validator
